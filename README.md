@@ -17,9 +17,9 @@ Based on the statistics developed for weather temperatures isolated for the mont
 
 2. Even though the June temperatures min and max range is wide (64 - 85), the interquartile range is fairly small (4).  The first quartile (25th %) temperature is 73, the second quartile (50th %) temperature is 75, and the third quartile (75th %) temperature is 77.  
 
-Similarly, even though the December temperatures min and max range is wide (56 - 83), the interquartile range is fairly small (5).  The first quartile (25th %) temperature is 69, the second quartile (50th %) temperature is 71, and the third quartile (75%) temperature is 74.  
+   Similarly, even though the December temperatures min and max range is wide (56 - 83), the interquartile range is fairly small (5).  The first quartile (25th %) temperature is 69, the second quartile (50th %) temperature is 71, and the third quartile (75%) temperature is 74.  
 
-As with the average temperatures described in #1 above, surfing and ice cream demand should be fairly consistent and not peak/valley fluctuate significantly based on weather temperatures alone, because the weather temperatures do no fluctuate widely between summer time (June) and winter time (December) based on the interquartile review.
+   As with the average temperatures described in #1 above, surfing and ice cream demand should be fairly consistent and not peak/valley fluctuate significantly based on weather temperatures alone, because the weather temperatures do no fluctuate widely between summer time (June) and winter time (December) based on the interquartile review.
 
 3. The standard deviation for June temperatures is 3.26 and for December temperatures is 3.75.  These lower standard deviation values for June and December reflect that temperatures are clustered fairly close to the mean values noted in #1 above.  The low variability in the temperatures further reinforces the previous statements on minimal weather temperature fluctations leading to consistent surfing and ice cream demand versus only a single season desire or peak.
 
