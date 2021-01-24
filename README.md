@@ -24,11 +24,11 @@ As with the average temperatures described in #1 above, surfing and ice cream de
 3. The standard deviation for June temperatures is 3.26 and for December temperatures is 3.75.  These lower standard deviation values for June and December reflect that temperatures are clustered fairly close to the mean values noted in #1 above.  The low variability in the temperatures further reinforces the previous statements on low weather temperature fluctations leading to consistent surfing and ice cream demand versus only a single season desire.
 
 #### June Temperature Statistics Summary
-![](images/june_temps.png)
+![](images/June_Temps.png)
     
 
 #### December Temperature Statistics Summary
-![](images/dec_temps.png)
+![](images/Dec_Temps.png)
 
 
 ### Challenges and Difficulties Encountered
