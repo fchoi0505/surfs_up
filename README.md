@@ -24,7 +24,7 @@ As with the average temperatures described in #1 above, surfing and ice cream de
 3. The standard deviation for June temperatures is 3.26 and for December temperatures is 3.75.  These lower standard deviation values for June and December reflect that temperatures are clustered fairly close to the mean values noted in #1 above.  The low variability in the temperatures further reinforces the previous statements on low weather temperature fluctations leading to consistent surfing and ice cream demand versus only a single season desire.
 
 #### June Temperature Statistics Summary
-![](images/jun_temps.png)
+![](images/june_temps.png)
     
 
 #### December Temperature Statistics Summary
@@ -48,7 +48,7 @@ Additional queries can be executed to further review the Oahu weather conditions
 
 * With the current dataset:
  
-1) Review precipitation quantities for June and December.  High precipitation, even though the temperature is nice, could negatively impact customer flow.  The June and December precipitation queries have been included in the Jupyter Notebook.
+** Review precipitation quantities for June and December.  High precipitation, even though the temperature is nice, could negatively impact customer flow.  Two additional queries to review precipitation in June and also in December have been included in the Jupyter Notebook to further review weather conditions in Oahu in June vs. December.
 
 * If the current dataset was expanded:
-1) Associate Oahu areas/regions with Station IDs:  By associating Oahu areas or regions to group the Station IDs within would help to focus location scouting for the surf and ice cream shop.  A query can then be created where the temperature and precipitation readings already captured associated to Station ID's can then be group to regional areas that would be optimal locations on Oahu to scout for the surf and ice cream shop.
+** Associate Oahu areas/regions with Station IDs:  By associating Oahu areas or regions to group the Station IDs within would help to focus location scouting for the surf and ice cream shop.  A query can then be created where the temperature and precipitation readings already captured associated to Station ID's can then be group to regional areas that would be optimal locations on Oahu to scout for the surf and ice cream shop.
