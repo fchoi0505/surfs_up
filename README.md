@@ -45,8 +45,8 @@ Additional queries can be executed to further review the Oahu weather conditions
 
 * With the current dataset:
  
-Review precipitation quantities for June and December.  High precipitation, even though the temperature is nice, could negatively impact customer flow.  Two additional queries to review precipitation in June and also in December have been included in the Jupyter Notebook to further review weather conditions in Oahu in June vs. December.
+  Review precipitation quantities for June and December.  High precipitation, even though the temperature is nice, could negatively impact customer flow.  Two additional queries to review precipitation in June and also in December have been included in the Jupyter Notebook to further review weather conditions in Oahu in June vs. December.
 
 * If the current dataset was expanded:
 
-Associate Oahu areas/regions with Station IDs:  By associating Oahu areas or regions to group the Station IDs within would help to focus location scouting for the surf and ice cream shop.  A query can then be created where the temperature and precipitation readings already captured associated to Station ID's can then be group to regional areas that would be optimal locations on Oahu to scout for the surf and ice cream shop location.
+  Associate Oahu areas/regions with Station IDs:  By associating Oahu areas or regions to group the Station IDs within would help to focus location scouting for the surf and ice cream shop.  A query can then be created where the temperature and precipitation readings already captured associated to Station ID's can then be group to regional areas that would be optimal locations on Oahu to scout for the surf and ice cream shop location.
